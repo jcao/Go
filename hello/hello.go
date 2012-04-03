@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-        fmt.Printf("Hello from Github, world.  Sqrt(9) = %v\n", newmath.Sqrt(9))
+        fmt.Printf("Hello from Github, world!!!!.  Sqrt(16) = %v\n", newmath.Sqrt(16))
 }

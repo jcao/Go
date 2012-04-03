@@ -8,4 +8,5 @@ import (
 
 func main() {
         fmt.Printf("Hello from Github, world!!!!.  Sqrt(16) = %v\n", newmath.Sqrt(16))
+        fmt.Printf("Hello from Github, world!!!!.  Sqrt(64) = %v\n", newmath.Sqrt(64))
 }
